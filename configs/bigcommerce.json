@@ -25,7 +25,7 @@
     "lvl5": ".content h5",
     "text": ".content p, .content li"
   },
-  "min_indexed_level": 1,
+  "min_indexed_level": 2,
   "scrap_start_urls": false,
   "nb_hits": 24820
 }
